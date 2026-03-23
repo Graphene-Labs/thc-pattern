@@ -1,3 +1,5 @@
+> Esta documentación también está disponible en español: [README.es.md](./README.es.md)
+
 # THC / THC-C Pattern
 
 > Based on the JONA Pattern by Jonathan Franchesco Torres Baca
