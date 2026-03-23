@@ -1,8 +1,8 @@
-import { CrearCuentaForm as Nivel1 } from './features/nivel1'
-import { CrearCuentaForm as Nivel2 } from './features/nivel2'
-import { CrearCuentaForm as Nivel3 } from './features/nivel3'
-import { CrearCuentaForm as Nivel4 } from './features/nivel4'
-import { CrearCuentaForm as Nivel5 } from './features/crearCuenta'
+import { CrearCuentaForm as Nivel1 } from '@/features/nivel1'
+import { CrearCuentaForm as Nivel2 } from '@/features/nivel2'
+import { CrearCuentaForm as Nivel3 } from '@/features/nivel3'
+import { CrearCuentaForm as Nivel4 } from '@/features/nivel4'
+import { CrearCuentaForm as Nivel5 } from '@/features/crearCuenta'
 
 const niveles = [
   {

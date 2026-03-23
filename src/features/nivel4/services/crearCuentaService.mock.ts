@@ -1,4 +1,4 @@
-import { composeConfig } from '../../../config/composeConfig'
+import { composeConfig } from '@/config/composeConfig'
 import type { CrearCuentaFormData, ApiResponse, Cuenta } from '../types/crearCuenta.types'
 import exitoso from '../fixtures/exitoso/crearCuenta.fixture'
 import emailDuplicado from '../fixtures/emailDuplicado/crearCuenta.fixture'

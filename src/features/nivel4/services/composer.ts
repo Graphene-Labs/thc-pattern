@@ -1,4 +1,4 @@
-import { composeConfig } from '../../../config/composeConfig'
+import { composeConfig } from '@/config/composeConfig'
 import { crearCuentaService as real } from './crearCuentaService'
 import { crearCuentaService as mock } from './crearCuentaService.mock'
 
